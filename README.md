@@ -8,4 +8,4 @@
 
 
 # 接口访问频率 （Interface Request Limit）
-  每秒2次 （2 time every second）
+  每秒2次,每天1000次 （2 time/second And 1000 times/day）
